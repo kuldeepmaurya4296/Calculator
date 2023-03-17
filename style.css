@@ -157,7 +157,7 @@ a {
         left: 50%;
         transform: translate(-50%, 0);
         color: rgb(243, 15, 15);
-        font-size: 50px;
+        font-size: 10vw;
     }
 
     footer {
